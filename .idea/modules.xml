@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MerchantFooder.iml" filepath="$PROJECT_DIR$/MerchantFooder.iml" />
       <module fileurl="file://$PROJECT_DIR$/MerchantFooder(Book Table).iml" filepath="$PROJECT_DIR$/MerchantFooder(Book Table).iml" />
       <module fileurl="file://$PROJECT_DIR$/MerchantFooder(BookTable).iml" filepath="$PROJECT_DIR$/MerchantFooder(BookTable).iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
